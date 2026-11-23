@@ -38,7 +38,7 @@ The portfolio features a modern Blue & Cyan theme with smooth animations and a r
 
 
 ## Live Portfolio
-https://ananyanputhran.github.io/Ananya_N_Puthran_Portfolio/
+[View My Live Portfolio](https://ananyanputhran.github.io/Ananya_N_Puthran_Portfolio/)
 
 ## Connect With Me
 
