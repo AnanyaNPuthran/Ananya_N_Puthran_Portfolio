@@ -36,9 +36,10 @@ The portfolio features a modern Blue & Cyan theme with smooth animations and a r
 - Responsive Web Design
 - CSS Animations
 
+
 ## Live Portfolio
 
-Coming soon.
+[View My Live Portfolio](https://ananyanputhran.github.io/ananya-portfolio/)
 
 ## Connect With Me
 
